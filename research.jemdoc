@@ -1,0 +1,25 @@
+# jemdoc: menu{MENU}{research.html}, showsource
+= Siqi Zhang - Research
+
+== Research Intersts
+  - Optimization theory, algorithms and applications
+  - Machine learning
+  - Parallel and distributed algorithms for large-scale data problems
+
+== Projects
+
+- Asynchronous Multi-Task Learning (AMTL)
+-- Multi-Task Learning (MTL) is a different learning framework from single task learning in the training process, multiple tasks are performed simultaneously to capture intrinsic relatedness.
+-- Based on the theory from "Asynchronous Parallel Stochastic Gradient Methods", MTL is asynchronized, evolving into AMTL, forward-backward operator is applied in the new algorithm framework.
+-- My project aims to implement a prototype of this new learning framework. The main tools used are Java, Socket and some [http://www.netlib.org/blas/ BLAS]. The code is available [https://github.com/illidanlab/AMTL here].
+-- I am engaged into this project during the summer of 2016, in [https://cmse.msu.edu/ the Department of CMSE] of [https://msu.edu/ MSU], supervised by [https://cmse.msu.edu/directory/faculty/ming-yan/ Dr. Ming Yan] and [http://0xmachine.com/ Dr. Jiayu Zhou]  
+
+~~~
+{}{img_left}{figure/AMTL_Fig.jpg}{alt text}{625px}{633px}{}
+~~~
+
+~~~
+Main References:
+- Peng, Zhimin, Yangyang Xu, Ming Yan, and Wotao Yin. "[https://arxiv.org/abs/1506.02396 ARock: an algorithmic framework for asynchronous parallel coordinate updates.]" arXiv preprint arXiv:1506.02396 (2015).
+- Baytas, Inci M., Ming Yan, Anil K. Jain, and Jiayu Zhou. "[https://arxiv.org/abs/1609.09563 Asynchronous Multi-Task Learning.]" arXiv preprint arXiv:1609.09563 (2016).
+~~~
