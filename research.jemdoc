@@ -6,18 +6,17 @@
   - Machine learning
 
 == Publications and Preprints
-: {On the Convergence Rate of Stochastic Mirror Descent for Nonsmooth Nonconvex Optimization} Siqi Zhang, Niao He  [https://arxiv.org/abs/1806.04781 \[arXiv:1806.04781\]]
+: {On the Convergence Rate of Stochastic Mirror Descent for Nonsmooth Nonconvex Optimization} /Siqi Zhang/, Niao He [https://arxiv.org/abs/1806.04781 ~~\[arXiv:1806.04781\]]
 
 == Current Project
 
 - Stochastic First-order Methods for Nonsmooth Nonconvex Optimization
--- We check the convergence performances of some first-order methods like stochastic gradient/mirror descent in nonsmooth nonconvex optimization.
--- We try to relax existing assumptions and some algorithms settings to see whether these algorithms can still converge.
--- We try to apply existing convergence results to more optimization problems
+-- Check the convergence performances of some basic first-order methods like stochastic gradient/mirror descent in nonsmooth nonconvex optimization.
+-- Relax common assumptions to see whether these algorithms can still converge.
+-- Apply existing convergence guarantees to several important nonconvex optimization problems and design better first-order methods.
 
 == Past Projects
 
 - Asynchronous Multi-Task Learning (AMTL)
--- We tried to apply "Asynchronous Parallel Stochastic Gradient Methods" to Multi-Task Learning (MTL) problems.
--- My project aims to implement a prototype of this new learning framework. The main tools used are Java, Socket and some [http://www.netlib.org/blas/ BLAS]. The code is available on [https://github.com/illidanlab/AMTL GitHub].
+-- Focus on "Asynchronous Parallel Stochastic Gradient Methods" and Multi-Task Learning (MTL) problems. Implemented a prototype of this new learning framework, mainly using Java and Socket. [https://github.com/illidanlab/AMTL \[code\]].
 -- I worked on this project during the summer of 2016, in [https://cmse.msu.edu/ the Department of CMSE] of [https://msu.edu/ MSU], supervised by [http://users.math.msu.edu/users/yanm/index.html Prof. Ming Yan] and [http://jiayuzhou.github.io/ Prof. Jiayu Zhou]  

@@ -13,17 +13,19 @@ If there were any error, please kindly contact me to correct it, thank you very 
 
 == Selected Course Websites Related to Optimization 
 - [http://web.stanford.edu/~boyd/ A Series of Courses about Optimization] by Prof. Stephen Boyd @Stanford
-- [http://www.math.ucla.edu/~wotaoyin/index.html A Series of Courses about Optimization (Graduate Level, Undergraduate Level and Sparse Optimization)] by Prof. Wotao Yin @UCLA
-- [https://www.math.ucdavis.edu/~sqma/MAT258A.html Numerical Optimization (2018 Spring)] by Prof. Shiqian Ma @UC Davis
+- [http://www.math.ucla.edu/~wotaoyin/index.html A Series of Courses about Optimization] by Prof. Wotao Yin @UCLA
 - [http://www.seas.ucla.edu/~vandenbe/index.html A Series of Courses about Optimization] by Prof. Lieven Vandenberghe @UCLA
 - [http://bicmr.pku.edu.cn/~wenzw/opt-2017-fall.html Convex Optimization (2017 Fall)] by Prof. Zaiwen Wen @PKU
 - [http://bicmr.pku.edu.cn/~wenzw/bigdata2018.html Algorithms for Big Data Analysis (2018 Spring)] by Prof. Zaiwen Wen @PKU
+- [https://www.math.ucdavis.edu/~sqma/MAT258A.html Numerical Optimization (2018 Spring)] by Prof. Shiqian Ma @UC Davis
 - [https://ee227c.github.io/ Convex Optimization and Approximation (2018 Spring)] by Prof. Moritz Hardt @UC Berkeley
 - [http://yintat.com/cse599_winter2018/ Interplay between Convex Optimization and Geometry (2018 Winter)] by Prof. Yin Tat Lee @UW-Seattle
 
-== Comprehensive Resources on Optimization
+== Other Resources on Optimization
 - [http://sunju.org/research/nonconvex/ Provable Nonconvex Methods/Algorithms] by Ju Sun @Stanford
-- [https://arxiv.org/search/?query=math.OC&searchtype=all&order=-announced_date_first&size=50 Math.OC] in arXiv
+- [https://arxiv.org/search/?query=math.OC&searchtype=all&order=-announced_date_first&size=50 Math.OC] Optimization and Control papers in arXiv
+- [https://www.youtube.com/user/SimonsInstitute/playlists Lecture video series] in Simons Institute for the Theory of Computing, UC Berkeley
+- [https://csml.princeton.edu/bridgingmathematicaloptimizationslidesvideos Lecture videos and slides] of the "Bridging Mathematical Optimization, Information Theory, and Data Science" workshop at Princeton, May 2018.
 
 == About the Webpage: jemdoc
 jemdoc is a light text-based markup language designed for creating websites, created by [https://jemnz.com/ Jacob Mattingley]. It is very suitable for academic style website, which makes your website clear and concise.
