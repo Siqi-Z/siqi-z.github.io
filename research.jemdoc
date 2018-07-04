@@ -2,17 +2,17 @@
 = Siqi Zhang - Research
 
 == Research Intersts
-  - Optimization algorithms, especially nonsmooth, nonconvex cases
+  - Optimization theory and algorithms, especially for nonsmooth, nonconvex cases
   - Machine learning
 
-== Publications and Preprints
+== Publications and Preprints ([https://scholar.google.com/citations?user=0M171lEAAAAJ&hl=en Google Scholar])
 : {On the Convergence Rate of Stochastic Mirror Descent for Nonsmooth Nonconvex Optimization} /Siqi Zhang/, Niao He [https://arxiv.org/abs/1806.04781 ~~\[arXiv:1806.04781\]]
 
 == Current Project
 
 - Stochastic First-order Methods for Nonsmooth Nonconvex Optimization
 -- Check the convergence performances of some basic first-order methods like stochastic gradient/mirror descent in nonsmooth nonconvex optimization.
--- Relax common assumptions to see whether these algorithms can still converge.
+-- Relax common assumptions in nonsmooth nonconvex optimization to see whether these algorithms can still converge and corresponding performances.
 -- Apply existing convergence guarantees to several important nonconvex optimization problems and design better first-order methods.
 
 == Past Projects
