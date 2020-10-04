@@ -2,11 +2,14 @@
 = Siqi Zhang
 
 ~~~
-{}{img_left}{figure/logo.jpg}{alt text}{267px}{200px}{}
+{}{img_left}{figure/SiqiZ_logo.jpg}{alt text}{200px}{200px}{}
 Siqi Zhang
 \n
 \n
 Department of Industrial and Enterprise Systems Engineering ([http://ise.illinois.edu ISE])
+\n
+Coordinated Science Laboratory ([https://csl.illinois.edu/ CSL])
+\n
 \n
 University of Illinois at Urbana-Champaign ([illinois.edu UIUC])
 \n
@@ -17,18 +20,17 @@ University of Illinois at Urbana-Champaign ([illinois.edu UIUC])
 ~~~
 
 == Introduction
-Hi, my name is Siqi Zhang. Since the fall of 2017, I am a PhD student in the ISE Department of UIUC, working with [http://niaohe.ise.illinois.edu/ Prof. Niao He]. 
-\n\n
-I am mainly interested in optimization theory, algorithms and its applications in machine learning.
-\n\n 
-I received my B.S. majoring in mathematics from Southern University of Science and Technology (SUSTech, formerly SUSTC), Shenzhen, China, in 2017.
+Hi, my name is Siqi Zhang. Since the Fall of 2017, I am a PhD student in the ISE Department of UIUC, also I am affiliated with CSL, supervised by [http://niaohe.ise.illinois.edu/ Prof. Niao He]. 
 
+== Research Intersts
+Broadly speaking, I am interested in *optimization* and its applications in *machine learning*. Recently, I am focusing on the following topics:
+  - Nonconvex optimization
+  - Min-max optimization
+  - Lower bound analysis in optimization 
+  - Intersection of opitmization with sampling, control and reinforcement learning
 
 == News
-- \[2018.06\] Our paper "[https://arxiv.org/abs/1806.04781 On the Convergence Rate of Stochastic Mirror Descent for Nonsmooth Nonconvex Optimization]" (with Prof. Niao He) has been uploaded to arXiv.
-- \[2017.06\] I finished my undergraduate study in SUSTech and got my B.Sc degree, I will always be proud of being a SUSTCer.
-- \[2017.04\] I will join the ISE Department of UIUC as a PhD student this fall, continuing my study in optimization and related areas.
-- \[2016.09\] I finished my internship in the Department of CMSE in Michigan State University (MSU). I appreciated help from my supervisors very much. Thank you, MSU! 
+- \[2020.09\] Two papers are accepted to NeurIPS 2020, thanks to all the wonderful collaborators!
 
 == Contact
 - Email: siqiz4 AT illinois DOT edu.

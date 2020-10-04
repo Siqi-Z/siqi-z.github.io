@@ -7,11 +7,11 @@ This page aims to record some useful links that help our study and research, it 
 If there were any error, please kindly contact me to correct it, thank you very much.
 ~~~
 
-== Suggestions on Graduate Study
+== Suggestions on Graduate Study (to be updated)
 - [https://staff.ie.cuhk.edu.hk/~mhchen/advice.html A List of Suggestions to Graduate Students] by Prof. Minghua Chen @CUHK
 - [http://karpathy.github.io/2016/09/07/phd/ A Survival Guide to a PhD] by Andrej Karpathy @Tesla
 
-== Selected Course Websites Related to Optimization 
+== Selected Course Websites Related to Optimization (to be updated)
 - [http://web.stanford.edu/~boyd/ A Series of Courses about Optimization] by Prof. Stephen Boyd @Stanford
 - [http://www.math.ucla.edu/~wotaoyin/index.html A Series of Courses about Optimization] by Prof. Wotao Yin @UCLA
 - [http://www.seas.ucla.edu/~vandenbe/index.html A Series of Courses about Optimization] by Prof. Lieven Vandenberghe @UCLA
@@ -21,15 +21,19 @@ If there were any error, please kindly contact me to correct it, thank you very 
 - [https://ee227c.github.io/ Convex Optimization and Approximation (2018 Spring)] by Prof. Moritz Hardt @UC Berkeley
 - [http://yintat.com/cse599_winter2018/ Interplay between Convex Optimization and Geometry (2018 Winter)] by Prof. Yin Tat Lee @UW-Seattle
 
-== Other Resources on Optimization
+== Other Useful Resources on Optimization and Machine Learning
 - [http://sunju.org/research/nonconvex/ Provable Nonconvex Methods/Algorithms] by Ju Sun @Stanford
-- [https://arxiv.org/search/?query=math.OC&searchtype=all&order=-announced_date_first&size=50 Math.OC] Optimization and Control papers in arXiv
+- [https://arxiv.org/search/?query=math.OC&searchtype=all&order=-announced_date_first&size=50 Math.OC] Optimization and control papers in arXiv
+- [https://arxiv.org/search/?query=stat.ML&searchtype=all Stat.ML] Machine learning and statistics papers in arXiv
 - [https://www.youtube.com/user/SimonsInstitute/playlists Lecture video series] in Simons Institute for the Theory of Computing, UC Berkeley
 - [https://csml.princeton.edu/bridgingmathematicaloptimizationslidesvideos Lecture videos and slides] of the "Bridging Mathematical Optimization, Information Theory, and Data Science" workshop at Princeton, May 2018.
 
 == Mathematical Tools
 - [https://www.desmos.com/calculator Desmos | Graphing Calculator]
 - [http://detexify.kirelabs.org/classify.html Detexify | Recognize symbols of LaTeX]
+
+== Academic Conferences
+- [https://aideadlin.es/?sub=ML Machine Learning Conference Deadlines]
 
 == About the Webpage: jemdoc
 jemdoc is a light text-based markup language designed for creating websites, created by [https://jemnz.com/ Jacob Mattingley]. It is very suitable for academic style website, which makes your website clear and concise.

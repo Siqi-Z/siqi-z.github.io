@@ -1,0 +1,17 @@
+# jemdoc: menu{MENU}{publications.html}, showsource
+= Siqi Zhang - Publications
+
+== Publications ([https://scholar.google.com/citations?user=0M171lEAAAAJ&hl=en Google Scholar])
+: {Biased Stochastic Gradient Descent for Conditional Stochastic Optimization} 
+Yifan Hu, *Siqi Zhang*, Xin Chen, Niao He. \n
+/Neural Information Processing Systems (NeurIPS) 2020/ [https://arxiv.org/abs/2002.10790 ~\[arXiv\]]
+
+\n
+
+: {A Catalyst Framework for Minimax Optimization}
+Junchi Yang, *Siqi Zhang*, Negar Kiyavash, Niao He. \n
+/Neural Information Processing Systems (NeurIPS) 2020/
+
+== Preprints
+: {On the Convergence Rate of Stochastic Mirror Descent for Nonsmooth Nonconvex Optimization} 
+*Siqi Zhang*, Niao He [https://arxiv.org/abs/1806.04781 ~\[arXiv\]]

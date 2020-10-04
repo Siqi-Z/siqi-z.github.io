@@ -1,0 +1,34 @@
+# jemdoc: menu{MENU}{LB.html}, showsource
+= Lower Bounds in Convex/Nonconvex Optimization
+
+~~~
+This page aims to collect recent research efforts on lower bounds, which suggests the optimality of existing state-of-the-art algorithms (or the tightness of existing best lower bounds). 
+
+\n\n
+
+/P.S. Of course the results here are not exhaustive and may be not fully correct, any comments are welcome./
+~~~
+
+~~~
+{}{img_center}{figure/LB_intro.jpg}{alt text}{600px}{300px}{}
+\n
+Understanding of Optimization Complexity Analysis (/Source:  [https://xu-yangyang.github.io/index.html Yangyang Xu]'s Slides/)
+~~~
+
+== Convex Deterministic Optimization
+- To be completed
+
+== Convex Finite-Sum / Stochastic Optimization
+- To be completed
+
+== Nonconvex Deterministic Optimization
+- To be completed
+
+== Nonconvex Finite-Sum / Stochastic Optimization
+- To be completed
+
+== Convex-Concave Deterministic Min-Max Optimization
+- To be completed
+
+== Convex-Concave Finite-Sum / Stochastic Min-Max Optimization
+- To be completed
