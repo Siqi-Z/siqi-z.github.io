@@ -9,7 +9,7 @@ If there were any error, please kindly contact me to correct it, thank you very 
 
 == Suggestions on Graduate Study
 - [http://personal.cityu.edu.hk/mchen88/advice.html A List of Suggestions to Graduate Students] by Prof. Minghua Chen @CityU
-- [http://karpathy.github.io/2016/09/07/phd/ A Survival Guide to a PhD] by Andrej Karpathy @Tesla
+- [http://karpathy.github.io/2016/09/07/phd/ A Survival Guide to a PhD (PDF)] by Andrej Karpathy @Tesla
 - [https://cs.uwaterloo.ca/~thachisu/survival.pdf Graduate Study Survival Guide] by Toshiya Hachisuka @UWaterloo
 
 == Selected Course Websites Related to Optimization
@@ -27,11 +27,15 @@ If there were any error, please kindly contact me to correct it, thank you very 
 - [https://csml.princeton.edu/bridgingmathematicaloptimizationslidesvideos Lecture videos and slides] of the "Bridging Mathematical Optimization, Information Theory, and Data Science" workshop at Princeton, May 2018.
 
 == Academic Conferences and Selected Online Seminars
-- [https://aideadlin.es/?sub=ML Machine Learning Conference Deadlines]
-- [https://researchseminars.org/ Collection of Research Seminars]
+- [https://aideadlin.es/?sub=ML A collection of countdown of major machine learning conference deadlines]
+- [https://researchseminars.org/ A collection of recent research seminars]
 - [https://owos.univie.ac.at/ One World Optimization Seminar]
 - [https://www.oneworldml.org/home One World Seminar Series on the Mathematics of Machine Learning]
 - [https://sites.google.com/view/seminarmathdatascience/home Online Seminar on  Mathematical Foundations of Data Science]
+
+== Research & Code Management
+- [https://www.aaai.org/ojs/index.php/AAAI/article/download/5028/4901 A short summary of research group management using online tools] by Prof. Eric Eaton @UPenn
+- [https://mmcheng.net/docx/ DOCX (in Chinese)] by Prof. Ming-Ming Cheng @Nankai
 
 == Mathematical Tools
 - [https://www.desmos.com/calculator Desmos | Graphing Calculator]
