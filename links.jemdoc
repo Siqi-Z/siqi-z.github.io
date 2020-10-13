@@ -11,12 +11,14 @@ If there were any error, please kindly contact me to correct it, thank you very 
 - [http://personal.cityu.edu.hk/mchen88/advice.html A List of Suggestions to Graduate Students] by Prof. Minghua Chen @CityU
 - [http://karpathy.github.io/2016/09/07/phd/ A Survival Guide to a PhD (PDF)] by Andrej Karpathy @Tesla
 - [https://cs.uwaterloo.ca/~thachisu/survival.pdf Graduate Study Survival Guide] by Toshiya Hachisuka @UWaterloo
+- [http://www.stat.cmu.edu/~aramdas/checklists.html Checklists for Stat-ML PhD students] by Aaditya Ramdas @CMU
 
 == Selected Course Websites Related to Optimization
 - [http://web.stanford.edu/~boyd/ Several courses on optimization] by Prof. Stephen Boyd @Stanford
 - [http://www.seas.ucla.edu/~vandenbe/index.html Several courses on optimization] by Prof. Lieven Vandenberghe @UCLA
 - [http://bicmr.pku.edu.cn/~wenzw/index.html Several courses on optimization] by Prof. Zaiwen Wen @PKU
 - [http://yintat.com/teaching.html Several courses on optimization] by Prof. Yin Tat Lee @UW
+- [http://www.stat.cmu.edu/~ryantibs/teaching.html Several courses on optimization, machine learning and statistics] by Prof. Ryan Tibshirani @CMU (also resources therein)
 - [https://gowerrobert.github.io/ Several courses on optimization & machine learning] by Prof. Robert M. Gower @Telecom Paris
 
 == Useful Resources on Optimization and Machine Learning
@@ -25,6 +27,11 @@ If there were any error, please kindly contact me to correct it, thank you very 
 - [https://arxiv.org/search/?query=stat.ML&searchtype=all Stat.ML] Machine learning and statistics papers in arXiv
 - [https://www.youtube.com/user/SimonsInstitute/playlists Lecture video series] in Simons Institute for the Theory of Computing, UC Berkeley
 - [https://csml.princeton.edu/bridgingmathematicaloptimizationslidesvideos Lecture videos and slides] of the "Bridging Mathematical Optimization, Information Theory, and Data Science" workshop at Princeton, May 2018.
+
+== Useful Resources on Mathematics and Statistics
+- [http://www.cs.cmu.edu/~zkolter/course/linalg/index.html Linear Algebra Review] by Zico Kolter @CMU
+- [http://www.matrixcalculus.org/ Matrix Calculus]
+
 
 == Academic Conferences and Selected Online Seminars
 - [https://aideadlin.es/?sub=ML A collection of countdown of major machine learning conference deadlines]
