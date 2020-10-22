@@ -1,4 +1,4 @@
-# jemdoc: menu{MENU}{link.html}, showsource
+# jemdoc: menu{MENU}{link.html}
 = Useful Links
 
 ~~~
@@ -13,14 +13,14 @@ If there were any error, please kindly contact me to correct it, thank you very 
 - [https://cs.uwaterloo.ca/~thachisu/survival.pdf Graduate Study Survival Guide] by Toshiya Hachisuka @UWaterloo
 - [http://www.stat.cmu.edu/~aramdas/checklists.html Checklists for Stat-ML PhD students] by Aaditya Ramdas @CMU
 
-== Selected Course Websites Related to Optimization
+== Selected Course and Tutorial Websites Related to Optimization
 - [http://web.stanford.edu/~boyd/ Several courses on optimization] by Prof. Stephen Boyd @Stanford
 - [http://www.seas.ucla.edu/~vandenbe/index.html Several courses on optimization] by Prof. Lieven Vandenberghe @UCLA
 - [http://bicmr.pku.edu.cn/~wenzw/index.html Several courses on optimization] by Prof. Zaiwen Wen @PKU
 - [http://yintat.com/teaching.html Several courses on optimization] by Prof. Yin Tat Lee @UW
 - [http://www.stat.cmu.edu/~ryantibs/teaching.html Several courses on optimization, machine learning and statistics] by Prof. Ryan Tibshirani @CMU (also resources therein)
 - [https://gowerrobert.github.io/ Several courses on optimization & machine learning] by Prof. Robert M. Gower @Telecom Paris
-- [http://www.cs.umd.edu/class/fall2020/cmsc828W/ Foundations of Deep Learning (Fall 2020)] by Prof. Soheil Feizi @UMD
+- [http://www.cs.umd.edu/class/fall2020/cmsc828W/ Foundations of Deep Learning (Fall 2020)] by Prof. Soheil Feizi @UMD Orabona @BU
 
 == Useful Resources on Optimization and Machine Learning
 - [http://sunju.org/research/nonconvex/ Provable Nonconvex Methods/Algorithms] by Prof. Ju Sun @UMN
@@ -28,6 +28,7 @@ If there were any error, please kindly contact me to correct it, thank you very 
 - [https://arxiv.org/search/?query=stat.ML&searchtype=all Stat.ML] Machine learning and statistics papers in arXiv
 - [https://www.youtube.com/user/SimonsInstitute/playlists Lecture video series] in Simons Institute for the Theory of Computing, UC Berkeley
 - [https://csml.princeton.edu/bridgingmathematicaloptimizationslidesvideos Lecture videos and slides] of the "Bridging Mathematical Optimization, Information Theory, and Data Science" workshop at Princeton, May 2018.
+- [https://parameterfree.com/icml-tutorial/ Tutorial on Parameter-Free Online Optimization] at [https://icml.cc/Conferences/2020/ScheduleMultitrack?event=5753 ICML 2020] by Prof. Francesco
 
 == Useful Resources on Mathematics and Statistics
 - [http://www.cs.cmu.edu/~zkolter/course/linalg/index.html Linear Algebra Review] by Zico Kolter @CMU

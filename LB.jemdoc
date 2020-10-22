@@ -1,4 +1,4 @@
-# jemdoc: menu{MENU}{LB.html}, showsource
+# jemdoc: menu{MENU}{LB.html}
 = Lower Bounds in Convex/Nonconvex Optimization
 
 ~~~
