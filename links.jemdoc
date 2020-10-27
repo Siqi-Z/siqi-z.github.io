@@ -21,6 +21,7 @@ If there were any error, please kindly contact me to correct it, thank you very 
 - [http://www.stat.cmu.edu/~ryantibs/teaching.html Several courses on optimization, machine learning and statistics] by Prof. Ryan Tibshirani @CMU (also resources therein)
 - [https://gowerrobert.github.io/ Several courses on optimization & machine learning] by Prof. Robert M. Gower @Telecom Paris
 - [http://www.cs.umd.edu/class/fall2020/cmsc828W/ Foundations of Deep Learning (Fall 2020)] by Prof. Soheil Feizi @UMD Orabona @BU
+- [https://www.di.ens.fr/~fbach/learning_theory_class/ Learning Theory from First Principles] by Prof. Francis Bach @INRIA
 
 == Useful Resources on Optimization and Machine Learning
 - [http://sunju.org/research/nonconvex/ Provable Nonconvex Methods/Algorithms] by Prof. Ju Sun @UMN
@@ -28,7 +29,6 @@ If there were any error, please kindly contact me to correct it, thank you very 
 - [https://arxiv.org/search/?query=stat.ML&searchtype=all Stat.ML] Machine learning and statistics papers in arXiv
 - [https://www.youtube.com/user/SimonsInstitute/playlists Lecture video series] in Simons Institute for the Theory of Computing, UC Berkeley
 - [https://csml.princeton.edu/bridgingmathematicaloptimizationslidesvideos Lecture videos and slides] of the "Bridging Mathematical Optimization, Information Theory, and Data Science" workshop at Princeton, May 2018.
-- [https://parameterfree.com/icml-tutorial/ Tutorial on Parameter-Free Online Optimization] at [https://icml.cc/Conferences/2020/ScheduleMultitrack?event=5753 ICML 2020] by Prof. Francesco
 
 == Useful Resources on Mathematics and Statistics
 - [http://www.cs.cmu.edu/~zkolter/course/linalg/index.html Linear Algebra Review] by Zico Kolter @CMU
