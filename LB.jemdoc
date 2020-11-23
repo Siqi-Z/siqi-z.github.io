@@ -10,9 +10,9 @@ This page aims to collect recent research efforts on lower bounds, which suggest
 ~~~
 
 ~~~
-{}{img_center}{figs/LB_intro.JPG}{alt text}{600px}{300px}{}
+{}{img_center}{figs/Complexity_Understanding.JPG}{alt text}{1050px}{300px}{}
 \n
-Understanding of Optimization Complexity Analysis (/Source:  [https://xu-yangyang.github.io/index.html Yangyang Xu]'s Slides/)
+Understanding of Optimization Complexity Analysis (/Source:  [https://xu-yangyang.github.io/index.html Yangyang Xu] and [https://www2.eecs.berkeley.edu/Pubs/TechRpts/2019/EECS-2019-53.pdf Chi Jin]/)
 ~~~
 
 == Convex Deterministic Optimization
