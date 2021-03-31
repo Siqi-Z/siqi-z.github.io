@@ -14,10 +14,17 @@ Junchi Yang, *Siqi Zhang*, Negar Kiyavash, Niao He. \n
 /Neural Information Processing Systems (NeurIPS) 2020/ [https://proceedings.neurips.cc/paper/2020/hash/3db54f5573cd617a0112d35dd1e6b1ef-Abstract.html ~\[NeurIPS\]]
 
 \n
-: {**(\* denotes equal contributions)**}
 
 == Preprints
+: {The Complexity of Nonconvex-Strongly-Concave Minimax Optimization} 
+*Siqi Zhang\**, Junchi Yang\*, Cristobal Guzman, Negar Kiyavash and Niao He. 2021 [https://arxiv.org/abs/2103.15888 ~\[arXiv\]]
+
+\n
+
 : {On the Convergence Rate of Stochastic Mirror Descent for Nonsmooth Nonconvex Optimization} 
-*Siqi Zhang*, Niao He [https://arxiv.org/abs/1806.04781 ~\[arXiv\]]
+*Siqi Zhang*, Niao He. 2018 [https://arxiv.org/abs/1806.04781 ~\[arXiv\]]
+
+\n
+: {**(\* denotes equal contributions)**}
 
 \n
