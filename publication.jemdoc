@@ -1,7 +1,10 @@
 # jemdoc: menu{MENU}{publications.html}
 = Publications
 
-== Publications ([https://scholar.google.com/citations?user=0M171lEAAAAJ&hl=en Google Scholar]) 
+
+
+
+== Publications ([https://scholar.google.com/citations?user=0M171lEAAAAJ&hl=en Google Scholar])
 
 : {The Complexity of Nonconvex-Strongly-Concave Minimax Optimization} 
 *Siqi Zhang\**, Junchi Yang\*, Cristobal Guzman, Negar Kiyavash and Niao He. \n
@@ -22,6 +25,9 @@ Junchi Yang, *Siqi Zhang*, Negar Kiyavash, Niao He. \n
 \n
 
 == Preprints
+
+: {First-Order Optimization Inspired from Finite-Time Convergent Flows} 
+*Siqi Zhang*, Mouhacine Benosman, Orlando Romero, Anoop Cherian. 2021 [https://arxiv.org/abs/2010.02990 ~\[arXiv\]]
 
 : {On the Convergence Rate of Stochastic Mirror Descent for Nonsmooth Nonconvex Optimization} 
 *Siqi Zhang*, Niao He. 2018 [https://arxiv.org/abs/1806.04781 ~\[arXiv\]]
