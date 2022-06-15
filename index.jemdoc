@@ -8,16 +8,7 @@ Siqi Zhang
 \n
 Department of Industrial and Enterprise Systems Engineering ([http://ise.illinois.edu ISE])
 \n
-Coordinated Science Laboratory ([https://csl.illinois.edu/ CSL])
-\n
 University of Illinois at Urbana-Champaign ([https://illinois.edu UIUC])
-\n
-\n
-Optimization & Decision Intelligence Group ([https://odi.inf.ethz.ch/ ODI])
-\n
-Department of Computer Science ([https://inf.ethz.ch/ D-INFK])
-\n
-ETH Zurich
 \n
 \n
 [https://scholar.google.com/citations?user=0M171lEAAAAJ&hl=en Google Scholar] 
@@ -26,26 +17,28 @@ ETH Zurich
 ~~~
 
 == Introduction
-Hi, this is Siqi Zhang, I am a 5-th year PhD student in the ISE Department of UIUC, also I am affiliated with CSL, supervised by [https://odi.inf.ethz.ch/niaohe Prof.\ Niao He]. 
+Hi, this is Siqi Zhang. I got my Ph.D. degree from the ISE Department of UIUC in June 2022, supervised by [https://odi.inf.ethz.ch/niaohe Prof.\ Niao He]. 
 
 \n
-\n
 
-Since August 2021, I have moved to the [https://inf.ethz.ch/ Department of Computer Science] at [https://ethz.ch/en.html ETH Zurich] as a visiting Ph.D. student.
+~~~
+Since July 2022, I will move to the [https://engineering.jhu.edu/ams/ Department of Applied Mathematics and Statistics (AMS)] of [https://www.jhu.edu/ Johns Hopkins University (JHU)] as a Rufus Isaacs Postdoctoral Fellow.
+~~~
 
 == Research Intersts
 Broadly speaking, I am interested in *optimization* and its applications in *machine learning*. Recently, I am focusing on the following topics:
   - Nonconvex optimization
-  - Min-max optimization
+  - Minimax optimization
   - Lower bound analysis in optimization 
   - Intersection of opitmization with sampling, control and reinforcement learning
 
 == News
+- \[2022.06\] Successfully passed the Ph.D. dissertation defense!
 - \[2021.05\] One paper is accepted to UAI 2021, thanks to all the wonderful collaborators!
 - \[2021.05\] I will work as a research intern in [https://www.merl.com/ MERL] this summer.
 - \[2020.09\] Two papers are accepted to NeurIPS 2020, thanks to all the wonderful collaborators!
 
 == Contact
 - Email: siqiz4 AT illinois DOT edu
-- Address: CAB, Universitatstrasse 6, 8092 Zurich, Switzerland
+- Address: Transportation Building, 104 S. Mathews Ave., Urbana, IL, USA
 \n
