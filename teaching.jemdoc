@@ -1,18 +1,18 @@
 # jemdoc: menu{MENU}{teaching.html}
 = Teaching
 
-== Johns Hopkins University
+== Instructor
 
-- Fall 2022: Probability and Statistics for the Biological Sciences and Engineering (EN.553.311, Instructor)
-- Fall 2022: Freshman Experience in Applied Mathematics & Statistics (EN.553.101, Instructor)
-    -- Topic: Linear algebra, Visualization and Application in Data Science
+- Fall 2022: Probability and Statistics for the Biological Sciences and Engineering (EN.553.311, JHU)
+- Fall 2022: Freshman Experience in Applied Mathematics & Statistics (EN.553.101, JHU)
+    -- The topic is  "/Linear algebra, Visualization and Application in Data Science/"
 
 \n
 
-== Other Teaching Experiences
-- Spring 2022: Optimization for Data Science (261-5110-00L, ETH Zurich, Teaching Assistant)
-- Fall 2021: Foundations of Reinforcement Learning (263-5255-00L, ETH Zurich, Teaching Assistant)
-- Fall 2019: Business Side of Engineering, (SE 261, UIUC, Teaching Assistant) 
-- Fall 2018: Determinstic Models in Optmization (IE 310, UIUC, Teaching Assistant) 
+== Teaching Assistant
+- Spring 2022: Optimization for Data Science (261-5110-00L, ETH Zurich)
+- Fall 2021: Foundations of Reinforcement Learning (263-5255-00L, ETH Zurich)
+- Fall 2019: Business Side of Engineering, (SE 261, UIUC) 
+- Fall 2018: Determinstic Models in Optmization (IE 310, UIUC) 
 
 \n
