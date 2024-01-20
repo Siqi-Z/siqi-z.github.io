@@ -3,33 +3,42 @@
 
 == Publications ([https://scholar.google.com/citations?user=0M171lEAAAAJ&hl=en Google Scholar])
 
+: {Generalization Bounds of Nonconvex-(Strongly)-Concave Stochastic Minimax Optimization} 
+*Siqi Zhang\**, Yifan Hu\*, Liang Zhang, Niao He. \n
+/International Conference on Artificial Intelligence and Statistics (AISTATS) 2024/ 
+[https://arxiv.org/abs/2205.14278 ~\[arXiv\]] [https://opt-ml.org/papers/2022/paper70.pdf ~\[OPT2022 Workshop\]]
+
+\n
+
+: {Communication-Efficient Gradient Descent-Accent Methods for Distributed Variational Inequalities: Unified Analysis and Local Updates}
+*Siqi Zhang\**, Sayantan Choudhury\*, Sebastian U Stich, Nicolas Loizou. \n
+/International Conference on Learning Representations (ICLR) 2024/
+[https://arxiv.org/abs/2306.05100 ~\[arXiv\]] [https://opt-ml.org/papers/2022/paper84.pdf ~\[OPT2022 Workshop\]]
+
+\n
+
 : {The Complexity of Nonconvex-Strongly-Concave Minimax Optimization} 
 *Siqi Zhang\**, Junchi Yang\*, Cristobal Guzman, Negar Kiyavash and Niao He. \n
-/Uncertainty in Artificial Intelligence (UAI) 2021/ [https://arxiv.org/abs/2103.15888 ~\[arXiv\]] [https://proceedings.mlr.press/v161/zhang21c.html ~\[UAI\]]
+/Uncertainty in Artificial Intelligence (UAI) 2021/ 
+[https://arxiv.org/abs/2103.15888 ~\[arXiv\]] [https://proceedings.mlr.press/v161/zhang21c.html ~\[UAI\]]
 
 \n
 
 : {Biased Stochastic First-Order Methods for Conditional Stochastic Optimization and Applications in Meta Learning} 
 Yifan Hu\*, *Siqi Zhang\**, Xin Chen, Niao He. \n
-/Neural Information Processing Systems (NeurIPS) 2020/ [https://arxiv.org/abs/2002.10790 ~\[arXiv\]] [https://proceedings.neurips.cc/paper/2020/hash/1cdf14d1e3699d61d237cf76ce1c2dca-Abstract.html ~\[NeurIPS\]]
+/Neural Information Processing Systems (NeurIPS) 2020/ 
+[https://arxiv.org/abs/2002.10790 ~\[arXiv\]] [https://proceedings.neurips.cc/paper/2020/hash/1cdf14d1e3699d61d237cf76ce1c2dca-Abstract.html ~\[NeurIPS\]]
 
 \n
 
 : {A Catalyst Framework for Minimax Optimization}
 Junchi Yang, *Siqi Zhang*, Negar Kiyavash, Niao He. \n
-/Neural Information Processing Systems (NeurIPS) 2020/ [https://proceedings.neurips.cc/paper/2020/hash/3db54f5573cd617a0112d35dd1e6b1ef-Abstract.html ~\[NeurIPS\]]
+/Neural Information Processing Systems (NeurIPS) 2020/ 
+[https://proceedings.neurips.cc/paper/2020/hash/3db54f5573cd617a0112d35dd1e6b1ef-Abstract.html ~\[NeurIPS\]]
 
 \n
 
 == Workshop Papers and Preprints
-
-: {Communication-Efficient Gradient Descent-Accent Methods for Distributed Variational Inequalities: Unified Analysis and Local Updates}
-*Siqi Zhang\**, Sayantan Choudhury\*, Sebastian U Stich, Nicolas Loizou. 2023
-[https://arxiv.org/abs/2306.05100 ~\[arXiv\]] [https://opt-ml.org/papers/2022/paper84.pdf ~\[Workshop Version (OPT2022)\]]
-
-: {Generalization Bounds of Nonconvex-(Strongly)-Concave Stochastic Minimax Optimization} 
-*Siqi Zhang\**, Yifan Hu\*, Liang Zhang, Niao He. 2023
-[https://arxiv.org/abs/2205.14278 ~\[arXiv\]] [https://opt-ml.org/papers/2022/paper70.pdf ~\[Workshop Version (OPT2022)\]]
 
 : {First-Order Optimization Inspired from Finite-Time Convergent Flows} 
 *Siqi Zhang*, Mouhacine Benosman, Orlando Romero, Anoop Cherian. 2021 
@@ -43,13 +52,15 @@ Junchi Yang, *Siqi Zhang*, Negar Kiyavash, Niao He. \n
 : {**(\* denotes equal contributions)**}
 
 == Selected Talks
+:{/Generalization in Nonconvex Minimax Optimization: A Comprehensive Study/}
+INFORMS Optimization Society Conference, Houston, USA, 2024.03
+\n
+CAMDA Conference, College Station, USA, 2023.05
+
 :{/Communication-Efficient Federated Learning Algorithms for Variational Inequalities/}
 SIAM Conference on Optimization (OP23), Seattle, USA, 2023.06
 \n
 Annual Conference on Information Sciences and Systems (CISS 2023), Baltimore, USA, 2023.03
-
-:{/Generalization in Nonconvex Minimax Optimization: A Comprehensive Study/}
-CAMDA Conference, College Station, USA, 2023.05
 
 : {/Nonconvex Minimax Optimization: Fundamental Limits, Efficient Algorithms and Generalization/}
 INFORMS Annual Meeting, Indianapolis, USA, 2022.10
@@ -57,7 +68,5 @@ INFORMS Annual Meeting, Indianapolis, USA, 2022.10
 MINDS \& CIS Seminar, JHU, Baltimore, USA, 2022.10
 \n
 International Conference on Continuous Optimization (ICCOPT), Bethlehem, USA, 2022.07
-\n
-Young Talents Forum, Department of Mathematics, SUSTech, China (remote), 2022.01
 
 \n

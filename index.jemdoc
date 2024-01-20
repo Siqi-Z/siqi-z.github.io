@@ -17,7 +17,7 @@ Johns Hopkins University ([https://www.jhu.edu/ JHU])
 \n
 [https://www.linkedin.com/in/siqi-zhang-uiuc/ LinkedIn]
 \n
-[files/Siqi_CV_202302.pdf CV]
+[files/Siqi_CV_2401.pdf CV]
 ~~~
 
 == Introduction
@@ -30,15 +30,14 @@ I got my Ph.D. degree from the ISE Department of UIUC in June 2022, supervised b
 
 == Research Intersts
 Broadly speaking, I am interested in *optimization* and its applications in *machine learning*. Recently, I am focusing on the following topics:
-  - Nonconvex optimization
-  - Minimax optimization
-  - Lower bound analysis in optimization 
+  - Stochastic optimization, nonconvex optimization, minimax optimization
+  - Federated learning and its applications
   - Intersection of opitmization with sampling, control and reinforcement learning
 
 == News
+- \[2024.01\] One paper is accepted to ICLR 2024, one paper is accepted to AISTATS 2024, congrat to all the wonderful collaborators!
 - \[2022.06\] Successfully passed the Ph.D. dissertation defense!
 - \[2021.05\] One paper is accepted to UAI 2021, thanks to all the wonderful collaborators!
-- \[2021.05\] I will work as a research intern in [https://www.merl.com/ MERL] this summer.
 
 == Contact
 - Email: szhan207 AT jhu DOT edu
