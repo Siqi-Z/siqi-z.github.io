@@ -6,14 +6,14 @@
 : {Generalization Bounds of Nonconvex-(Strongly)-Concave Stochastic Minimax Optimization} 
 *Siqi Zhang\**, Yifan Hu\*, Liang Zhang, Niao He. \n
 /International Conference on Artificial Intelligence and Statistics (AISTATS) 2024/ 
-[https://arxiv.org/abs/2205.14278 ~\[arXiv\]] [https://opt-ml.org/papers/2022/paper70.pdf ~\[OPT2022 Workshop\]]
+[https://arxiv.org/abs/2205.14278 ~\[arXiv\]] [https://opt-ml.org/papers/2022/paper70.pdf ~\[Workshop\]]
 
 \n
 
 : {Communication-Efficient Gradient Descent-Accent Methods for Distributed Variational Inequalities: Unified Analysis and Local Updates}
 *Siqi Zhang\**, Sayantan Choudhury\*, Sebastian U Stich, Nicolas Loizou. \n
 /International Conference on Learning Representations (ICLR) 2024/
-[https://arxiv.org/abs/2306.05100 ~\[arXiv\]] [https://opt-ml.org/papers/2022/paper84.pdf ~\[OPT2022 Workshop\]]
+[https://arxiv.org/abs/2306.05100 ~\[arXiv\]] [https://opt-ml.org/papers/2022/paper84.pdf ~\[Workshop\]]
 
 \n
 
@@ -36,9 +36,11 @@ Junchi Yang, *Siqi Zhang*, Negar Kiyavash, Niao He. \n
 /Neural Information Processing Systems (NeurIPS) 2020/ 
 [https://proceedings.neurips.cc/paper/2020/hash/3db54f5573cd617a0112d35dd1e6b1ef-Abstract.html ~\[NeurIPS\]]
 
-\n
 
-== Workshop Papers and Preprints
+\n
+: {**(\* denotes equal contributions)**}
+
+== Preprints
 
 : {First-Order Optimization Inspired from Finite-Time Convergent Flows} 
 *Siqi Zhang*, Mouhacine Benosman, Orlando Romero, Anoop Cherian. 2021 
@@ -47,9 +49,6 @@ Junchi Yang, *Siqi Zhang*, Negar Kiyavash, Niao He. \n
 : {On the Convergence Rate of Stochastic Mirror Descent for Nonsmooth Nonconvex Optimization} 
 *Siqi Zhang*, Niao He. 2018 
 [https://arxiv.org/abs/1806.04781 ~\[arXiv\]]
-
-\n
-: {**(\* denotes equal contributions)**}
 
 == Selected Talks
 :{/Generalization in Nonconvex Minimax Optimization: A Comprehensive Study/}
