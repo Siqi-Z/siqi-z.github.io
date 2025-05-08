@@ -6,14 +6,14 @@
 : {Generalization Bounds of Nonconvex-(Strongly)-Concave Stochastic Minimax Optimization} 
 *Siqi Zhang\**, Yifan Hu\*, Liang Zhang, Niao He. \n
 /International Conference on Artificial Intelligence and Statistics (AISTATS) 2024/ 
-[https://arxiv.org/abs/2205.14278 ~\[arXiv\]] [https://opt-ml.org/papers/2022/paper70.pdf ~\[Workshop\]]
+[https://arxiv.org/abs/2205.14278 ~\[arXiv\]] [https://opt-ml.org/papers/2022/paper70.pdf ~\[Workshop\]] [https://proceedings.mlr.press/v238/zhang24c.html ~\[AISTATS\]]
 
 \n
 
 : {Communication-Efficient Gradient Descent-Accent Methods for Distributed Variational Inequalities: Unified Analysis and Local Updates}
 *Siqi Zhang\**, Sayantan Choudhury\*, Sebastian U Stich, Nicolas Loizou. \n
 /International Conference on Learning Representations (ICLR) 2024/
-[https://arxiv.org/abs/2306.05100 ~\[arXiv\]] [https://opt-ml.org/papers/2022/paper84.pdf ~\[Workshop\]]
+[https://arxiv.org/abs/2306.05100 ~\[arXiv\]] [https://opt-ml.org/papers/2022/paper84.pdf ~\[Workshop\]] [https://openreview.net/pdf?id=hORCalGn3Z ~\[ICLR\]]
 
 \n
 
@@ -39,6 +39,13 @@ Junchi Yang, *Siqi Zhang*, Negar Kiyavash, Niao He. \n
 
 \n
 : {**(\* denotes equal contributions)**}
+
+== Other Publications
+
+: {Avoid Overclaims: Summary of Complexity Bounds for Algorithms in Minimization and Minimax Optimization} 
+*Siqi Zhang*, Yifan Hu. \n
+/International Conference on Learning Representations (ICLR) 2025 (Blogposts Track)/
+[https://iclr-blogposts.github.io/2025/blog/opt-summary/ ~\[ICLR Blogposts\]] [https://opt-eng-ana.github.io/blog/2025/opt-summary/ ~\[Keep Updated\]]
 
 == Preprints
 

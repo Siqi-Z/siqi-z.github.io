@@ -44,9 +44,9 @@ Broadly speaking, I am interested in *optimization* and its applications in *mac
   - Intersection of machine learning, operation research and optimization
 
 == News
+- \[2025.04\] One blog post is accepted to ICLR 2025 (Blogposts Track), it summarizes upper and lower bounds of optimization algorithms in minimization and minimax optimization under various settings, we hope it serves as a toolbox for the community. Any constructive feedback, corrections, and suggestions are highly appreciated.
 - \[2024.01\] One paper is accepted to ICLR 2024, one paper is accepted to AISTATS 2024, congrat to all the wonderful collaborators!
 - \[2022.06\] Successfully passed the Ph.D. dissertation defense!
-- \[2021.05\] One paper is accepted to UAI 2021, thanks to all the wonderful collaborators!
 
 == Contact
 - Email: siqi.zhang AT nju.edu.cn
